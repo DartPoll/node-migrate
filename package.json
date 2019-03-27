@@ -1,13 +1,13 @@
 {
-  "name": "migrate",
+  "name": "pulse-migrate",
   "version": "1.6.2",
-  "description": "Abstract migration framework for node",
+  "description": "Abstract migration framework for node—includes tweaks for safer migration",
   "keywords": [
     "migrate",
     "migrations"
   ],
-  "author": "TJ Holowaychuk <tj@vision-media.ca>",
-  "repository": "git://github.com/visionmedia/node-migrate",
+  "author": "Robin Jayaswal <r.e.jayaswal@gmail.com>",
+  "repository": "git://github.com/DartPoll/node-migrate",
   "bin": {
     "migrate": "./bin/migrate",
     "migrate-init": "./bin/migrate-init",
